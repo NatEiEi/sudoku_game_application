@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Define the background color of the line -->
+    <solid android:color="#000000" /> <!-- Line color -->
+
+    <!-- Define the height of the line -->
+    <size
+        android:height="2dp" /> <!-- Line height -->
+
+    <!-- Define shadow by adding padding to the bottom -->
+    <padding
+        android:bottom="4dp" /> <!-- Space for shadow -->
+
+</shape>

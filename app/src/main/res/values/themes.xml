@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SudokuApp" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="IconButton">
+        <item name="android:background">@drawable/selector_button_background_borderless</item>
+    </style>
+</resources>
