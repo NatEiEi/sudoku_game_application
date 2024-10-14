@@ -22,12 +22,16 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginBottom="8dp"
-        android:text="Next Level" />
+        android:text="Next Level"
+        android:background="@drawable/selector_rectangl"
+        />
 
     <Button
         android:id="@+id/btnCancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Cancel" />
+        android:text="Cancel"
+        android:background="@drawable/selector_rectangl"
+        />
 </LinearLayout>

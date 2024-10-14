@@ -3,7 +3,7 @@
     android:shape="rectangle">
 
     <!-- Define the background color of the line -->
-    <solid android:color="#000000" /> <!-- Line color -->
+    <solid android:color="@color/white" /> <!-- Line color -->
 
     <!-- Define the height of the line -->
     <size
