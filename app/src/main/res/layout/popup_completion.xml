@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:gravity="center"
+        android:textColor="@color/white"
         android:text="Level Complete!"
         android:textSize="18sp"
         android:textStyle="bold" />

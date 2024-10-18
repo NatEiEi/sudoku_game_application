@@ -13,5 +13,10 @@
     <color name="transparent">#00FFFFFF</color>
     <color name="round_button_p">#fdf0d5</color>
     <color name="brown">#C79673</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="vanilla">#F3E5AB</color>
+    <color name="bronze">#CD7F32</color>
+    <color name="chocolate">#7B3F00</color>
+    <color name="grey">#808080</color>
 
 </resources>
